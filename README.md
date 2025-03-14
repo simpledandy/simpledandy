@@ -1,17 +1,17 @@
 # Simpledandy
 
-Welcome to **Simpledandy**, a glimpse into my evolving development journey! This repository is a placeholder for my future configuration files and a reflection of my ongoing exploration in the world of software development.
+Welcome to **Simpledandy**, a glimpse into my evolving development journey! This repository is a placeholder for my future configuration files and a reflection of my ongoing explorations.
 
 ## About Me
 
 I'm a university student with a deep interest in programming and solving real-world challenges through technology. My learning journey is driven by curiosity and a desire to experiment with new tools, frameworks, and languages.
 
 ### Current Endeavors
-- **Yechim**: A problem-solving app designed to empower users to tackle challenges creatively and efficiently. This project represents my aspirations to create impactful, user-friendly applications.
+- **Yechim**: A problem-sharing app designed to empower users to share their every day challenges and raise awareness for problem solvers.
 - Broad experimentation across **languages and frameworks**, including:
   - **Languages**: C++, Java, Python, JavaScript, and more!
   - **Frameworks/Tools**: Flask, React Native, Rad Studio, and even a brief dabble in Android Studio (though my laptop had other opinions).  
-- Proud owner of **20+ certificates** on [Sololearn](https://www.sololearn.com) showcasing my foundational knowledge across multiple programming domains.
+- Proud owner of **20+ certificates** on [Sololearn](https://www.sololearn.com/en/profile/24517019) (go and scroll down a bit).
 
 ### Learning & Goals
 While I’ve mostly been experimenting with various tools and technologies, I’m passionate about mastering:
