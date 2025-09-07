@@ -1,7 +1,7 @@
 ### 🌼 Hey there, I’m simpledandy!
 
 Welcome to my little corner of GitHub ✨  
-I’m a curious coder exploring the worlds of web dev, DevOps, and creative tech.  
+I’m a curious coder exploring the worlds of mobile & web dev, DevOps, and creative tech.  
 I love building things that are **simple** yet a bit **dandy**!  
 
 - 🎨 Making projects that blend functionality and charm  
