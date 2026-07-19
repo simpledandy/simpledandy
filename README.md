@@ -9,7 +9,7 @@ I love building things that are **simple** yet a bit **dandy**!
 - 🌱 Always growing and trying to leave the codebase (and the world) a bit better
 
 Let's connect!  
-[💬Telegram](https://t.me/ruxsoro) • [💌 Email](mailto:kenjayevaruxsoraxon@example.com)
+[💬Telegram](https://t.me/ruxsoroxon) • [💌 Email](mailto:kenjayevaruxsoraxon@gmail.com)
 
 > “Code simply. Dream dandy.”
 
